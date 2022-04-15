@@ -1,0 +1,29 @@
+.category-container {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 60px;
+    background-color: rgb(0 0 0 / 9%);
+    min-height: 255px;
+}
+
+.category-container img {
+    margin: auto;
+    height: 90px;
+    object-fit: contain;
+}
+
+.category-container-button {
+    opacity: 0;
+    transition: opacity 0.35s ease;
+}
+
+.category-container:hover .category-container-button {
+    opacity: 1;
+}
+
+/* Medium devices (landscape tablets, 768px and down) */
+@media only screen and (max-width: 768px) {
+    .category-container-button {
+        font-size: 10px;
+    }
+}

@@ -1,0 +1,19 @@
+h4 {
+    font-size: 1.4em !important;
+    font-weight: 600 !important;
+    line-height: 27px !important;
+    margin: 0 0 16px 0 !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #212529;
+    font-weight: 200;
+    letter-spacing: -0.05em;
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+}

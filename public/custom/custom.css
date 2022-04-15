@@ -1,0 +1,153 @@
+.btn-primary {
+    background-color: #3c2180 !important;
+}
+
+.ck-editor__editable {
+    min-height: 150px !important;
+}
+
+.disabled {
+    cursor: no-drop;
+}
+
+.custom-stepper-nav {
+    align-items: start !important;
+    justify-content: start !important;
+}
+
+.invalid-feedback {
+    display: block !important;
+}
+
+.show-loader {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.toast {
+    background-color: #000000 !important;
+}
+
+.toast-success {
+    background-color: #51a351 !important;
+}
+
+.toast-error {
+    background-color: #bd362f !important;
+}
+
+.toast-info {
+    background-color: #2f96b4 !important;
+}
+
+.toast-warning {
+    background-color: #f89406 !important;
+}
+
+.pac-container {
+    z-index: 10000 !important;
+}
+
+#delivery_date,
+.delivery-date-icon {
+    cursor: pointer;
+}
+
+.custom-loader {
+    border-width: 3px !important;
+    width: 20px !important;
+    height: 20px !important;
+}
+
+.select2-container .select2-selection--multiple {
+    min-height: 42px !important;
+}
+
+.select2-container .select2-search--inline .select2-search__field {
+    margin-top: 10px !important;
+    margin-left: 10px !important;
+}
+
+.select2-results__option {
+    padding: 10px !important;
+}
+
+table.dataTable.table-sm .sorting:after,
+table.dataTable.table-sm .sorting_asc:after,
+table.dataTable.table-sm .sorting_desc:after {
+    top: 15px;
+}
+
+@media (max-width: 767px) {
+    .table-responsive .dropdown-menu {
+        position: static !important;
+    }
+}
+@media (min-width: 768px) {
+    .table-responsive {
+        overflow-x: auto;
+    }
+}
+
+.order_green {
+    background-color: #239b56 !important;
+    color: #fff !important;
+}
+
+.order_orange {
+    background-color: #ff8400 !important;
+    color: #fff !important;
+}
+.order_blue {
+    background-color: #3498db !important;
+    color: #fff !important;
+}
+
+.order_red {
+    background-color: #e74c3c !important;
+    color: #fff !important;
+}
+
+.order_yellow {
+    background-color: #fafa33 !important;
+    color: #353935 !important;
+}
+
+.order_pickup_done {
+    background-color: #0b5345 !important;
+    color: #fff !important;
+}
+.order_pickup_not {
+    background-color: #45b39d !important;
+    color: #fff !important;
+}
+.special_order_color {
+    background-color: #7239ea !important;
+    color: #fff !important;
+}
+
+.order_cetacean {
+    background-color: #001440 !important;
+    color: #fff !important;
+}
+
+.order_partial_green {
+    background-color: #48BD91 !important;
+    color: #fff !important;
+}
+
+.order_already_green {
+    background-color: rgb(23, 231, 113) !important;
+    color: #fff !important;
+}
+
+.order_hold_yellow {
+    background-color: #f7cb73 !important;
+    color: #fff !important;
+}
+
+.order_vm_yellow {
+    background-color: #f8bc7c !important;
+    color: #fff !important;
+}
